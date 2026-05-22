@@ -1,0 +1,27 @@
+{
+  "league": "Portugal - Liga Portugal",
+  "home_team": "Sporting CP",
+  "away_team": "Benfica",
+  "is_live": true,
+  "match_url": "https://www.bet365.com/#/AC/B1/C1/D13/E181805061/F2/",
+  "minute": 40,
+  "period": 1,
+  "score_home": 0,
+  "score_away": 0,
+  "asian_corner_line": 5.5,
+  "asian_corner_over_odd": 1.75,
+  "home_stats": {
+    "dangerous_attacks": 85,
+    "possession": 50,
+    "shots_on_target": 10,
+    "shots_off_target": 8,
+    "corner_minutes": [10, 20, 30]
+  },
+  "away_stats": {
+    "dangerous_attacks": 70,
+    "possession": 50,
+    "shots_on_target": 5,
+    "shots_off_target": 5,
+    "corner_minutes": [15, 40]
+  }
+}

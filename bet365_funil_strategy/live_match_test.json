@@ -1,0 +1,29 @@
+{
+  "league": "Teste Manual - Ao Vivo",
+  "home_team": "Time Casa Exemplo",
+  "away_team": "Time Visitante Exemplo",
+  "is_live": true,
+  "match_url": null,
+  "minute": 52,
+  "period": 2,
+  "score_home": 1,
+  "score_away": 0,
+  "asian_corner_line": 8.5,
+  "asian_corner_over_odd": 1.78,
+  "home_stats": {
+    "dangerous_attacks": 44,
+    "possession": 53,
+    "shots_on_target": 5,
+    "shots_off_target": 6,
+    "corner_minutes": [12, 25, 40],
+    "total_corners": 3
+  },
+  "away_stats": {
+    "dangerous_attacks": 31,
+    "possession": 47,
+    "shots_on_target": 3,
+    "shots_off_target": 4,
+    "corner_minutes": [18, 37],
+    "total_corners": 2
+  }
+}
